@@ -22,7 +22,7 @@ To get started with Meetup Planner, you need to have Python and pip installed on
 
 1. Clone this repository:
 ```python
-git clone https://github.com/msdqhabib/Meetup-Planner-using-Django.git
+git clone https://github.com/aaltamashzaheer/Meetup-Planner-Using-Django-Framework
 ```
 2. Navigate to the project directory:
 ```python
