@@ -2,7 +2,7 @@
 
   <h1 color=#F7CC18FF> Hi there, I'm Altamash Zaheer👋<a href="#"></h1>
   
-Welcome to Meetup Planner! This is a web application built with Django that helps you plan your meetups with ease👋
+Welcome to Meetup Planner! This is a web application built with Django that helps you plan your meetups with ease.
 
 ## Table of Contents
 
